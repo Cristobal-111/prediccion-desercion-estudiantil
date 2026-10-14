@@ -1,0 +1,8 @@
+,Versión 1,Versión 2
+Modelo,GaussianNB,Regresión logística (NB mixto como alternativa)
+Momento de la predicción,Fin de año (2º semestre),Fin del 1er semestre
+Validación,1 split,25 particiones (5×5)
+Exactitud,"84,8 %","86,0 %"
+ROC-AUC,No reportado,"0,902"
+Explicación del escalado,Underflow (incorrecto),var_smoothing (demostrado)
+Calibración,No evaluada,"Brier 0,104"

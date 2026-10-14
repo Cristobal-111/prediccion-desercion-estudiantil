@@ -1,0 +1,7 @@
+Capacidad,Método,Desertores alcanzados,Precisión de la lista
+20% de los estudiantes,Regla simple (tasa de aprobación),0.4904996481351161,0.7875706214689265
+20% de los estudiantes,GaussianNB,0.5130190007037297,0.823728813559322
+20% de los estudiantes,Regresión logística,0.5686136523574947,0.9129943502824859
+30% de los estudiantes,Regla simple (tasa de aprobación),0.6685432793807178,0.7159005275056518
+30% de los estudiantes,GaussianNB,0.661505981703026,0.7083647324792766
+30% de los estudiantes,Regresión logística,0.7487684729064039,0.80180859080633
